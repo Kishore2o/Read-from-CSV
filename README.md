@@ -21,6 +21,9 @@ In the last step print the output
 
 ## PROGRAM:
 ```
+Developed by : S.Kishore
+Register no : 22008388
+
 import pandas as pd
 df = pd.read_csv("pandaascsv.csv")
 print(df.head(10))
